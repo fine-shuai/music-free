@@ -26,18 +26,13 @@
       "version": "0.1.2"
     },
     {
-      "name": "咪咕",
-      "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/migu.js",
-      "version": "0.2.0"
-    },
-    {
       "name": "全民K歌",
       "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/qmkg.js",
       "version": "0.1.0"
     },
     {
       "name": "QQ音乐",
-      "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/qq.js",
+      "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/xiaoqiu.js",
       "version": "0.2.1"
     }
   ]
