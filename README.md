@@ -1,4 +1,5 @@
 # 适用于music-free软件
+软件链接https://github.com/maotoumao/MusicFreeDesktop
 整合QQ音乐、酷狗音乐、酷我音乐、网易云音乐源
 1. music目录整合音乐源来自于https://github.com/Huibq/keep-alive
    对其中音乐源名称进行修改，整合成自己的链接https://raw.githubusercontent.com/fine-shuai/music-free/refs/heads/main/music/myPlugins.json
