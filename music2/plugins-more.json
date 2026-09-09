@@ -2,37 +2,37 @@
   "plugins": [
     {
       "name": "5sing",
-      "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/5sing.js",
+      "url": "https://raw.githubusercontent.com/fine-shuai/music-free/refs/heads/main/music2/5sing.js",
       "version": "0.1.1"
     },
     {
       "name": "酷我",
-      "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/xiaowo.js",
+      "url": "https://raw.githubusercontent.com/fine-shuai/music-free/refs/heads/main/music2/kuwo.js",
       "version": "0.1.6"
     },
     {
       "name": "酷狗",
-      "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/kugou.js",
+      "url": "https://raw.githubusercontent.com/fine-shuai/music-free/refs/heads/main/music2/kugou.js",
       "version": "0.1.4"
     },
     {
       "name": "网易云",
-      "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/xiaoyun.js",
+      "url": "https://raw.githubusercontent.com/fine-shuai/music-free/refs/heads/main/music2/wangyi.js",
       "version": "0.2.1"
     },
     {
       "name": "网易云2",
-      "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/netease.js",
+      "url": "https://raw.githubusercontent.com/fine-shuai/music-free/refs/heads/main/music2/wangyi2.js",
       "version": "0.2.1"
     },
     {
       "name": "千千音乐",
-      "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/qianqian.js",
+      "url": "https://raw.githubusercontent.com/fine-shuai/music-free/refs/heads/main/music2/qianqian.js",
       "version": "0.1.2"
     },
     {
       "name": "QQ音乐",
-      "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/xiaoqiu.js",
+      "url": "https://raw.githubusercontent.com/fine-shuai/music-free/refs/heads/main/music2/QQ.js",
       "version": "0.2.1"
     }
   ]
