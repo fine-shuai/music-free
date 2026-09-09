@@ -1,1 +1,5 @@
-{"plugins":[{"name":"QQ音乐","url":"https://raw.githubusercontent.com/fine-shuai/music-free/refs/heads/main/music/QQ.js","version":"0.3.0"},{"name":"酷狗音乐","url":"https://raw.githubusercontent.com/fine-shuai/music-free/refs/heads/main/music/kugou.js","version":"0.3.0"},{"name":"酷我音乐","url":"https://raw.githubusercontent.com/fine-shuai/music-free/refs/heads/main/music/kuwo.js","version":"0.3.0"},{"name":"网易音乐","url":"https://raw.githubusercontent.com/fine-shuai/music-free/refs/heads/main/music/wangyi.js","version":"0.3.0"}]}
+{"plugins":[
+  {"name":"QQ音乐","url":"https://raw.githubusercontent.com/fine-shuai/music-free/refs/heads/main/music/QQ.js","version":"0.3.0"},
+  {"name":"酷狗音乐","url":"https://raw.githubusercontent.com/fine-shuai/music-free/refs/heads/main/music/kugou.js","version":"0.3.0"},
+  {"name":"酷我音乐","url":"https://raw.githubusercontent.com/fine-shuai/music-free/refs/heads/main/music/kuwo.js","version":"0.3.0"},
+  {"name":"网易音乐","url":"https://raw.githubusercontent.com/fine-shuai/music-free/refs/heads/main/music/wangyi.js","version":"0.3.0"}]}
