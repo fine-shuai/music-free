@@ -380,7 +380,7 @@ async function importMusicSheet(urlLike) {
     return musicList;
 }
 module.exports = {
-    platform: "小枸音乐",
+    platform: "酷狗音乐",
     version: "0.3.0",
     author: 'Huibq',
     appVersion: ">0.1.0-alpha.0",
